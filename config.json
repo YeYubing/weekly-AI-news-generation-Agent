@@ -1,0 +1,16 @@
+{
+    "settings": {
+        "last_run": null,
+        "auto_save": true,
+        "keep_reports_days": 30,
+        "sources": {
+            "hackernews": true,
+            "github": true,
+            "arxiv": false
+        }
+    },
+    "paths": {
+        "reports_folder": "reports",
+        "data_folder": "data"
+    }
+}
